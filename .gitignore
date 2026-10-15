@@ -3,3 +3,6 @@ dist/
 logs/*.log
 .env.local
 *.log
+.env
+certs
+docs
